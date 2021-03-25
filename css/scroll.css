@@ -1,0 +1,13 @@
+
+.content::-webkit-scrollbar { /* webkit */
+    width: 5px;
+    height: 5px;
+    background: #045a5a;
+}
+
+/* ползунок скроллбара */
+::-webkit-scrollbar-thumb {
+    background-color: #690943;
+    border-radius: 9em;
+    box-shadow: inset 1px 1px 10px #f3faf7;
+}

@@ -1,0 +1,18 @@
+.header {
+  height: 120px;
+  position: relative;
+  display: flex;
+}
+
+.logo-wrapper {
+  font-family: 'Chango', cursive;
+  font-size: 19px;
+  text-align: center;
+  background: #68829E;
+  width: 300px;
+}
+
+.search-wrapper {
+  width: calc(100% - 300px);
+  background: #505160;
+}
